@@ -29,9 +29,19 @@
         padding-right: 200px;
 }
 
-.fotos{
-        padding-block: 40px;
-        padding-left: 60px;
+.fotos_1{
+        padding-top: 60px;
+        display: flex;
+        justify-content: center;
+        justify-content: space-between;
+ 
+}
+
+.fotos_2{
+        padding: 50px;
+        display: flex;
+        justify-content: center;
+        justify-content: space-between;
 }
 
 .subtitulo{
